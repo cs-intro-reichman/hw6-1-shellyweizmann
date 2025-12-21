@@ -3,7 +3,7 @@
     {
       "name": "Read Image Test",
       "setup": "javac TesterRunigram.java Runigram.java",
-      "run": "java TesterRunigram.java read",
+      "run": "java TesterRunigram read",
       "input": "",
       "output":  "Testing Runigram.read...\nPASSED",
       "comparison": "exact",
@@ -13,7 +13,7 @@
     {
       "name": "Horizontal Flip Test",
       "setup": "javac TesterRunigram.java Runigram.java",
-      "run": "java TesterRunigram.java horizontal",
+      "run": "java TesterRunigram horizontal",
       "input": "",
       "output":  "Testing Runigram.flippedHorizontally...\nPASSED",
       "comparison": "exact",
@@ -23,7 +23,7 @@
     {
       "name": "Vertical Flip Test",
       "setup": "javac TesterRunigram.java Runigram.java",
-      "run": "java TesterRunigram.java vertical",
+      "run": "java TesterRunigram vertical",
       "input": "",
       "output":  "Testing Runigram.flippedVertically...\nPASSED",
       "comparison": "exact",
@@ -33,7 +33,7 @@
     {
       "name": "Grayscaled Test",
       "setup": "javac TesterRunigram.java Runigram.java",
-      "run": "java TesterRunigram.java grayscaled",
+      "run": "java TesterRunigram grayscaled",
       "input": "",
       "output":  "Testing Runigram.grayScaled...\nPASSED",
       "comparison": "exact",
@@ -43,7 +43,7 @@
     {
       "name": "Grayscaled Test",
       "setup": "javac TesterRunigram.java Runigram.java",
-      "run": "java TesterRunigram.java scaled",
+      "run": "java TesterRunigram scaled",
       "input": "",
       "output":  "Testing Runigram.scaled...\nPASSED",
       "comparison": "exact",
@@ -53,7 +53,7 @@
     {
       "name": "Grayscaled Test",
       "setup": "javac TesterRunigram.java Runigram.java",
-      "run": "java TesterRunigram.java blend",
+      "run": "java TesterRunigram blend",
       "input": "",
       "output":  "Testing Runigram.blend...\nPASSED",
       "comparison": "exact",
